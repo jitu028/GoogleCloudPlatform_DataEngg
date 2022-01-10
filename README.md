@@ -38,6 +38,9 @@ https://www.youtube.com/watch?v=rr0eEfKiQrE
 https://www.youtube.com/watch?v=YK_-yS9y_0k
 https://www.youtube.com/watch?v=6dNdqIzl_CE
 
+gcloud tool:
+https://cloud.google.com/sdk/gcloud
+
 #FHIR
 https://healthitanalytics.com/news/4-basics-to-know-about-the-role-of-fhir-in-interoperability
  

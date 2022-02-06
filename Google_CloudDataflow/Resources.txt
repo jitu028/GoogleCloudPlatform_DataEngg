@@ -1,0 +1,18 @@
+
+Resources:
+
+Apache Beam Programming Guide:
+https://beam.apache.org/documentation/programming-guide/
+
+Apache Beam Python SDK:
+https://beam.apache.org/documentation/sdks/python/
+https://beam.apache.org/releases/pydoc/2.35.0/index.html
+
+Tour of Beam:
+https://beam.apache.org/get-started/tour-of-beam/
+
+GitHub Python:
+https://github.com/apache/beam/tree/master/sdks/python/apache_beam/examples
+
+Beam DataFrames overview:
+https://beam.apache.org/documentation/dsls/dataframes/overview/
